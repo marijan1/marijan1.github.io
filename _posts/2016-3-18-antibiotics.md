@@ -4,7 +4,6 @@ title: Antibiotics
 ---
 
 ## Antibiotic extraction from flowers
-
 ![images](http://marijan1.github.io/images/mooi.JPG)
 
 This week we are going to try to extract antibiotics from beatifull flowers from the flowershop. I took a Gerbera and took some colored leaves from the flower and a piece of the stem.
