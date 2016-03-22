@@ -23,4 +23,6 @@ This week we are going to try to extract antibiotics from beatifull flowers from
 
 ![images](http://marijan1.github.io/images/platen.jpg)  
 
+The result of the incubation was pretty nice. Tulip gives a nice zone of inhibition. Gebera didn't give a zone. Lok at the picture for the results.
+![images](http://marijan1.github.io/images/
 
