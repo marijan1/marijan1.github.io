@@ -5,7 +5,6 @@ title: biohack project microbiology meets art
 
 ## project microbiology meets art
 
-
 First I want to thank you for reading my blog. I follow the biohack academy at the Waag society. In this course I will work on my own project and in this blog I will document this.
 So please feel free to read it.
 
