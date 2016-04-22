@@ -36,12 +36,16 @@ I use these bacteria to paint with:
 ![images](http://marijan1.github.io/images/IMG_0826.jpg)
 I made a buildingblock from lego and an empty beer glass, placed the plates below it by 21 degrees en put my telephonecamera above it to make a timelaps (App imotion). Every hour it takes a picture en after 48 hours I stopped the film. See what the result was!
 The bacteria grew en the collors were actualy quite good. Only the collor of the face and body was not so good.
-![images](http://marijan1.github.io/images/IMG_3265.jpg)
-![images](http://marijan1.github.io/images/IMG_3266.jpg)
+![images](http://marijan1.github.io/images/IMG_3219.jpg)
+![images](http://marijan1.github.io/images/IMG_3220.jpg)
+![images](http://marijan1.github.io/images/IMG_3221.jpg)
 
 I let the plates grow for a about a week and look for the pictures what happend. The blue one is taking over.![images](http://marijan1.github.io/images/IMG_3278.jpg)
 And the eye was not closed so the grey one is also growing on others places. After a week the girl isn't looking very well.
+![images](http://marijan1.github.io/images/IMG_3222.jpg)
 ![images](http://marijan1.github.io/images/IMG_3267.jpg)
+![images](http://marijan1.github.io/images/IMG_3265.jpg)
+![images](http://marijan1.github.io/images/IMG_3266.jpg)
 ![images](http://marijan1.github.io/images/IMG_3268.jpg)
 ![images](http://marijan1.github.io/images/IMG_3277.jpg)
 
