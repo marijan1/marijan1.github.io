@@ -12,6 +12,7 @@ I am an technichian that worked for a long time on a water research institute on
 My knowledge about art and design is not so big so my idea is to meet both worlds: microbiology meets art.
 
 I choose a painting from a famous dutch painter called Johannes Vermeer: The girl with the pearl.
+
 ![images](http://marijan1.github.io/images/meisjeparel.jpg)
 
 The challenge for me is to convert the drawing into lines en put them in the computer. I used natrual tracing paper to get the lines that I want on paper.
