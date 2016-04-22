@@ -17,7 +17,7 @@ I choose a painting from a famous dutch painter called Johannes Vermeer: The gir
 
 The challenge for me is to convert the drawing into lines en put them in the computer. I used natrual tracing paper to get the lines that I want on paper.
 ![images](http://marijan1.github.io/images/IMG_3108.jpg)
-![images](http://marijan1.github.io/images/IMG_3114.jpg)
+![images](http://marijan1.github.io/images/IMG_3214.jpg)
 
 I load the drawing in Inkscape and trace the lines. Then save as a dxf file.
 The first prototype was in MDF and looks very good.
