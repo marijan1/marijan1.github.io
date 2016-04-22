@@ -35,7 +35,20 @@ I let the plates grow for a about a week and look for the pictures what happend.
 
 I also did the same experiment only this time I used MDF 3mm. The result was quite different. The bacteria don't want to grow!. I think that the mdf is toxic for the bacteria. 
 
+
 ![images](http://marijan1.github.io/images/IMG_0826.jpg)
-
-
+![images](http://marijan1.github.io/images/IMG_3175.jpg)
+![images](http://marijan1.github.io/images/IMG_3193.jpg)
+![images](http://marijan1.github.io/images/IMG_3265.jpg)
+![images](http://marijan1.github.io/images/IMG_3266.jpg)
+![images](http://marijan1.github.io/images/IMG_3267.jpg)
+![images](http://marijan1.github.io/images/IMG_3268.jpg)
+![images](http://marijan1.github.io/images/IMG_3277.jpg)
+![images](http://marijan1.github.io/images/IMG_3278.jpg)
+![images](http://marijan1.github.io/images/IMG_3281.jpg)
+![images](http://marijan1.github.io/images/IMG_3285.jpg)
+![images](http://marijan1.github.io/images/IMG_3287.jpg)
+![images](http://marijan1.github.io/images/IMG_3291.jpg)
+![images](http://marijan1.github.io/images/IMG_3295.jpg)
+![images](http://marijan1.github.io/images/IMG_3301.jpg)
 
