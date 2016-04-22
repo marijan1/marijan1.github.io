@@ -43,6 +43,9 @@ And the eye was not closed so the grey one is also growing on others places. Aft
 I also did the same experiment only this time I used MDF 3mm. The result was quite different. The bacteria don't want to grow!. I think that the mdf is toxic for the bacteria. 
 ![images](http://marijan1.github.io/images/IMG_3285.jpg) ![images](http://marijan1.github.io/images/IMG_3301.jpg)
 
+
+
+
 For the BioHack Academy 3 Graduation Show I grew my own certificate. I made a yeastogram. I used the recipe #1 from http://pavillon35.polycinease.com/category/recipes/ 
 Instead of black cole I used green agar powder from the chinese shop.![images](http://marijan1.github.io/images/IMG_3287.jpg)
 My image is ofcourse the girl with the pearl.![images](http://marijan1.github.io/images/IMG_3291.jpg)
