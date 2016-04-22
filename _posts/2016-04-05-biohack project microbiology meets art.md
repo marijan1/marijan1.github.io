@@ -15,9 +15,13 @@ I choose a painting from a famous dutch painter called Johannes Vermeer: The gir
 ![images](http://marijan1.github.io/images/meisjeparel.jpg)
 
 The challenge for me is to convert the drawing into lines en put them in the computer. I used natrual tracing paper to get the lines that I want on paper.
+![images](http://marijan1.github.io/images/IMG_3108.jpg)
+![images](http://marijan1.github.io/images/IMG_3114.jpg)
 
 I load the drawing in Inkscape and trace the lines. Then save as a dxf file.
-The first prototype was in MDF and looks very good!![images](http://marijan1.github.io/images/IMG_3281.jpg)
+The first prototype was in MDF and looks very good.
+![images](http://marijan1.github.io/images/IMG_3115.jpg)
+![images](http://marijan1.github.io/images/IMG_3281.jpg)
 
 Then I tryed transparent Acrylic. I test the material because it was thick (5mm). I used the setting: Speed 5, power 100, corner 30. The result was good. Now I want to scale the size up. I have a bigger petridish (size 145 x 20). 
 This time the laser speed was to low. There was some burned places in the acryl. 
