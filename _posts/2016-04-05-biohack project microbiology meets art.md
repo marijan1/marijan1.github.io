@@ -33,8 +33,10 @@ The acryl was cleaned with ethanol(70%) and was placed in the petridish. Then I 
 I use these bacteria to paint with:
 
 
-![images](http://marijan1.github.io/images/IMG_0826.jpg)
-I made a buildingblock from lego and an empty beer glass, placed the plates below it by 21 degrees en put my telephonecamera above it to make a timelaps (App imotion). Every hour it takes a picture en after 48 hours I stopped the film. See what the result was!
+
+
+I made a buildingblock from lego and an empty beer glass, placed the plates below it by 21 degrees en put my telephonecamera above it to make a timelaps (App imotion).![images](http://marijan1.github.io/images/IMG_0826.jpg)
+Every hour it takes a picture en after 48 hours I stopped the film. See what the result was!
 The bacteria grew en the collors were actualy quite good. Only the collor of the face and body was not so good.
 ![images](http://marijan1.github.io/images/IMG_3219.jpg)
 ![images](http://marijan1.github.io/images/IMG_3220.jpg)
