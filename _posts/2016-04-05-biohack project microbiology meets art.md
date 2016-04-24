@@ -5,7 +5,7 @@ title: biohack project microbiology meets art
 
 ## project microbiology meets art
 
-First I want to thank you for reading my blog. I follow the biohack academy at the Waag society. In this course I will work on my own project and in this blog I will document this.
+Firstly I want to thank you for reading my blog. I follow the biohack academy at the Waag society. In this course I will work on my own project and in this blog I will document this.
 So please feel free to read it.
 
 I am an technichian that worked for a long time on a water research institute on a microbiology laboratory. So I have some knowledge about bacteria and how to work with them.
@@ -24,7 +24,7 @@ The first prototype was in MDF and looks very good.
 ![images](http://marijan1.github.io/images/IMG_3115.jpg)
 ![images](http://marijan1.github.io/images/IMG_3281.jpg)
 
-Then I tryed transparent Acrylic. I test the material because it was thick (5mm). I used the setting: Speed 5, power 100, corner 30. The result was good. Now I want to scale the size up. I have a bigger petridish (size 145 x 20). 
+Then I tried transparent Acrylic. I test the material because it was thick (5mm). I used the setting: Speed 5, power 100, corner 30. The result was good. Now I want to scale the size up. I have a bigger petridish (size 145 x 20). 
 This time the laser speed was to low. There was some burned places in the acryl. 
 But I will use the acryl lasercut to test how the bacteria grow.![images](http://marijan1.github.io/images/IMG_3175.jpg) 
 
